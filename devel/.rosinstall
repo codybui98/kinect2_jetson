@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/codyjetson/catkin_kinectv2/devel/setup.sh
